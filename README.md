@@ -46,7 +46,7 @@ npm install
 4. Run the application:
 
 ```bash
-npm start
+node index.js
 ```
 
 The application will prompt you with questions, and you can interact with Urveshi accordingly.
