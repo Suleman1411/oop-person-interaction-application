@@ -28,7 +28,7 @@ Before running the application, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone
+git clone https://github.com/Suleman1411/oop-person-interaction-application
 ```
 
 2. Navigate to the project directory:
